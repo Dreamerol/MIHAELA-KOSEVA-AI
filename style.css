@@ -109,7 +109,7 @@ a {
 
     grid-template-columns: repeat(5, minmax(0, 1fr));
 
-    gap: 5px;
+    gap: 12px;
 
     padding: 15px 0 20px;
   }
