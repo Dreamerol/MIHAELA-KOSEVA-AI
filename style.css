@@ -23,7 +23,7 @@ a {
 
 /* ================================
    HERO
-================================ */
+ ================================ */
 
 .hero {
   width: 100%;
@@ -53,12 +53,15 @@ a {
 /* ================================
    MAIN BUTTONS
    EXACTLY 5 IN ONE ROW
-================================ */
+ ================================ */
 
 .main-buttons {
   width: 100%;
-  margin: 0;
-  padding: 20px 5px;
+  margin: -18px 0 0;
+  padding: 0 5px 20px;
+
+  position: relative;
+  z-index: 2;
 
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -100,7 +103,7 @@ a {
 
 /* ================================
    TABLET
-================================ */
+ ================================ */
 
 @media (max-width: 800px) {
 
@@ -111,7 +114,8 @@ a {
 
     gap: 12px;
 
-    padding: 15px 0 20px;
+    margin-top: -12px;
+    padding: 0 0 20px;
   }
 
   .main-buttons a,
@@ -126,7 +130,7 @@ a {
 
 /* ================================
    MOBILE
-================================ */
+ ================================ */
 
 @media (max-width: 480px) {
 
@@ -137,7 +141,8 @@ a {
 
     gap: 4px;
 
-    padding: 10px 0;
+    margin-top: -8px;
+    padding: 0 0 12px;
   }
 
   .main-buttons a,
