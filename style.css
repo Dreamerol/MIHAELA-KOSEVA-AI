@@ -148,6 +148,19 @@ a {
   }
 
 
+  /* Леко застъпване на навигацията върху банера */
+.hero {
+  margin-bottom: -20px;
+  position: relative;
+  z-index: 1;
+}
+
+.navigation-cards {
+  position: relative;
+  z-index: 2;
+}
+
+
   
 }
 
