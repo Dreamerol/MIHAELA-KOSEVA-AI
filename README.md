@@ -207,10 +207,16 @@ MIHAELA-KOSEVA-AI/
 
 ## 🚀 Local Setup & Deployment
 
+
+
 1. **Clone the project codebase locally:**
-  
-  [ git clone https://github.com/MIHAELA-KOSEVA-AI.git](https://github.com/Dreamerol/MIHAELA-KOSEVA-AI.git)
+
+   ```bash
+   git clone https://github.com/Dreamerol/MIHAELA-KOSEVA-AI.git
    cd MIHAELA-KOSEVA-AI
+   ```
+
+  
 
 
 2. **Launch locally:**
