@@ -221,17 +221,6 @@ MIHAELA-KOSEVA-AI/
    * Pushing modifications straight to the `main` branch immediately triggers the active GitHub Pages deployment compiler.
 
 ---
-<p align="center">Built with absolute intent • © 2026 Mihaela Koseva</p>
-
-
-
-
-
-
-
-
-
-
 
 
 
