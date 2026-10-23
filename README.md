@@ -148,15 +148,19 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+
+
 # 🔗 MIHAELA-KOSEVA-AI
 
 <div align="center">
-  <img src="https://github.io" alt="Mihaela Koseva — Project Banner" width="100%">
+  <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
+    <img src="https://github.io" alt="Mihaela Koseva — Project Banner" width="100%">
+  </a>
 </div>
 
 ---
 
-### 🌐 [Live Deployment](https://github.io) │ 🐙 [Main Profile](https://github.com) │ 🔗 [LinkedIn](https://linkedin.com)
+### 🌐 [Live Deployment](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/) │ 🐙 [Main Profile](https://github.com) │ 🔗 [LinkedIn](https://linkedin.com)
 
 ---
 
@@ -207,6 +211,13 @@ MIHAELA-KOSEVA-AI/
 
 ---
 <p align="center">Built with absolute intent • © 2026 Mihaela Koseva</p>
+
+
+
+
+
+
+
 
 
 
