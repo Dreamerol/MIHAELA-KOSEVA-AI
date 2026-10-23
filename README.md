@@ -144,16 +144,36 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+
+
+
+
 <div align="center">
 
-#   🟢  <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">MIHAELA-KOSEVA-AI</a>  
-
-# <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
-
-# ∫ Data → Systems
+#   🟢  <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 | 𝗠𝗬 𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗪𝗢𝗥𝗟𝗗</a>  
 
 </div>
 
+
+
+
+<br>
+
+
+<br>
+
+
+<br>
 
 
 
