@@ -148,11 +148,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <br>
 
 
-<br>
-
-
-<br>
-
 
 
 
@@ -167,20 +162,16 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<br>
-
-
-<br>
-
 
 <br>
 
 
 
 
----
 
-### 🌐 [Live Deployment](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/) │ 🐙 [Main Profile](https://github.com) │ 🔗 [LinkedIn](https://linkedin.com)
+<div align="left">
+
+<div align="left">
 
 ---
 
