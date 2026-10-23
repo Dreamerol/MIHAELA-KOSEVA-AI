@@ -148,6 +148,65 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+# 🔗 MIHAELA-KOSEVA-AI
+
+<div align="center">
+  <img src="https://github.io" alt="Mihaela Koseva — Project Banner" width="100%">
+</div>
+
+---
+
+### 🌐 [Live Deployment](https://github.io) │ 🐙 [Main Profile](https://github.com) │ 🔗 [LinkedIn](https://linkedin.com)
+
+---
+
+## 💻 Repository Overview
+This repository contains the source code, asset configuration, and SEO optimization engines powering the official software engineering and applied AI/ML portfolio for **Mihaela Koseva**. Built using vanilla web technologies, the system serves as a clean, highly indexable landing page detailing 30+ engineering, data platform, and machine learning architectures.
+
+## 🛠️ Tech Stack & Implementation Details
+* **Frontend Core:** Pure Semantic HTML5, CSS3 Custom Properties (Variables), Responsive Grid/Flexbox UI Architecture
+* **SEO & Crawl Optimization:** Programmatic `sitemap.xml`, fine-grained `robots.txt`, and Google Search Console asset tracking
+* **Hosting Environment:** Optimized for GitHub Pages using a localized `.nojekyll` configuration bypass to ensure fast asset delivery
+* **Structured Data Graph:** Embedded JSON-LD schema matching standard `https://schema.org` metrics to maximize semantic search parsing
+
+---
+
+## 📂 Repository File Directory
+
+```bash
+MIHAELA-KOSEVA-AI/
+├── assets/
+│   └── images/              # Optimized static asset graphics and navigation layouts
+├── .nojekyll                # Disables Jekyll build engine for direct asset routing
+├── index.html               # Main entrypoint; semantic structure and JSON-LD graphs
+├── README.md                # System documentation
+├── robots.txt               # Directives for web crawler engines
+├── sitemap.xml              # XML url index map for search query acceleration
+└── style.css                # Central style sheet containing refactored grid metrics
+```
+
+---
+
+## 🚀 Local Setup & Deployment
+
+1. **Clone the project codebase locally:**
+   ```bash
+   git clone https://github.com/MIHAELA-KOSEVA-AI.git
+   cd MIHAELA-KOSEVA-AI
+   ```
+
+2. **Launch locally:**
+   * Open `index.html` directly inside any modern browser viewport.
+   * Alternatively, spin up a fast static thread using Python:
+     ```bash
+     python -m http.server 8000
+     ```
+
+3. **Production Deployment pipeline:**
+   * Pushing modifications straight to the `main` branch immediately triggers the active GitHub Pages deployment compiler.
+
+---
+<p align="center">Built with absolute intent • © 2026 Mihaela Koseva</p>
 
 
 
