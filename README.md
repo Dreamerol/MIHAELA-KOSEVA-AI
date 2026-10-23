@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/MIHAELA-KOSEVA-AI/fb59874a94072545377bb507aa47dab9b30a3e86/MIHAELA%20KOSEVA-README.png"
@@ -438,7 +438,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/hero-banner.png"
